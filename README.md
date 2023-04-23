@@ -20,6 +20,8 @@ The use of remote sensing in wildlife management and ecological study will great
 
 # **Works Cited**
 Hance, Jeremy. 2014. How remote sensing could change conservation forever. November 18. Accessed April 23, 2023. https://news.mongabay.com/2014/11/how-remote-sensing-could-change-conservation-forever.
+
 Stephenson, P.J. 2019. "Integrating Remote Sensing into Wildlife Monitoring for Conservation." Environmental Conservation, May 10: 1-3.
+
 Tibbetts, John H. 2017. "Remote Sensors Bring Wildlife Tracking to New Level." Bioscience 411-417.
 
